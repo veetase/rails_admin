@@ -5,7 +5,7 @@ require 'rails_admin/version'
 
 Gem::Specification.new do |spec|
   # If you add a dependency, please maintain alphabetical order
-  spec.add_dependency 'builder', '~> 3.1'
+  spec.add_dependency 'builder'
   spec.add_dependency 'coffee-rails'
   spec.add_dependency 'haml'
   spec.add_dependency 'jquery-rails'
