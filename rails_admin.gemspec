@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'haml'
   spec.add_dependency 'jquery-rails'
   spec.add_dependency 'jquery-ui-rails'
+  spec.add_dependency 'nested_form', '~> 0.3'
   spec.add_dependency 'font-awesome-rails'
   spec.add_dependency 'rack-pjax'
   spec.add_dependency 'rails'
