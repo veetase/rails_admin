@@ -15,7 +15,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'kaminari', '~> 0.14'
   spec.add_dependency 'nested_form'
   spec.add_dependency 'rack-pjax', '~> 0.6'
-  spec.add_dependency 'rails', '~> 3.1'
+  spec.add_dependency 'rails'
   spec.add_dependency 'remotipart', '~> 1.0'
   spec.add_dependency 'safe_yaml', '~> 0.6'
   spec.add_dependency 'sass-rails', '~> 3.1'
